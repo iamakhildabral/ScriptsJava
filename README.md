@@ -8,8 +8,7 @@ Hey there! Welcome to my repository for data handling and pattern matching scrip
 - [Scripts](#scripts)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributions](#contributions)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -20,11 +19,11 @@ In this repository, I've collected a set of scripts designed to handle and manip
 - **ExtractMFOL.java**: Extracts a substring and put it in a text file for further comparison.
 
 
-Feel free to explore and adapt these scripts to your specific needs. Each script comes with its own documentation to guide you.
+
 
 ## Usage
 
-For detailed usage instructions, check the documentation provided within each script's file. Generally, you'll need to have Python 3.x and Node.js installed for running the scripts. Clone this repository and navigate to the script's directory to get started.
+For detailed usage instructions, check the documentation provided within each script's file. Generally, you'll need to have either Java 11 or Python 3.10 installed for running the scripts. Clone this repository and navigate to the script's directory to get started.
 
 ## Dependencies
 
